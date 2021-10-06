@@ -12,6 +12,7 @@
 		A8969B25270B6C6D00F7DED0 /* CoreDataDemo.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = A8969B23270B6C6D00F7DED0 /* CoreDataDemo.xcdatamodeld */; };
 		A8969B27270B6C7300F7DED0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A8969B26270B6C7300F7DED0 /* Assets.xcassets */; };
 		A8969B2A270B6C7300F7DED0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A8969B28270B6C7300F7DED0 /* LaunchScreen.storyboard */; };
+		B5AF4322270DB2B60021301E /* StorageManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5AF4321270DB2B60021301E /* StorageManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		A8969B26270B6C7300F7DED0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A8969B29270B6C7300F7DED0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A8969B2B270B6C7300F7DED0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B5AF4321270DB2B60021301E /* StorageManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StorageManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				A8969B28270B6C7300F7DED0 /* LaunchScreen.storyboard */,
 				A8969B2B270B6C7300F7DED0 /* Info.plist */,
 				A8969B23270B6C6D00F7DED0 /* CoreDataDemo.xcdatamodeld */,
+				B5AF4321270DB2B60021301E /* StorageManager.swift */,
 			);
 			path = CoreDataDemo;
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 				A8969B1F270B6C6D00F7DED0 /* TaskListViewController.swift in Sources */,
 				A8969B25270B6C6D00F7DED0 /* CoreDataDemo.xcdatamodeld in Sources */,
 				A8969B1B270B6C6D00F7DED0 /* AppDelegate.swift in Sources */,
+				B5AF4322270DB2B60021301E /* StorageManager.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
